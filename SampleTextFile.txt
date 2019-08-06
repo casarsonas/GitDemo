@@ -1,3 +1,5 @@
 This is a sample file commited from git commands.
 Christopher Jeriel Sarsonas
 Francis Dwight S. Cabral
+Cool
+Awiwi Was Here
