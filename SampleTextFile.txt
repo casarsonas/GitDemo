@@ -1,3 +1,5 @@
 This is a sample file commited from git commands.
 Christopher Jeriel Sarsonas           
 Kevin John Santos                  
+Alden Ronaldo Tagumpay
+Mary Justine Espin
