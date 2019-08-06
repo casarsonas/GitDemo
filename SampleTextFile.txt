@@ -1,7 +1,7 @@
-<<<<<<< HEAD
-    
-=======
+
+
 This is a sample file commited from git commands.
 Christopher Jeriel Sarsonas
 Cool
->>>>>>> 2bf1b9c5524b3d4576e41ded3507cefedac03a34
+Alden Ronaldo Tagumpay
+Mary Justine Espin
