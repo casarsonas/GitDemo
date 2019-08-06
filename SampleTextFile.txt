@@ -1,11 +1,3 @@
 This is a sample file commited from git commands.
 Christopher Jeriel Sarsonas
-Alden Ronaldo Tagumpay
-Mary Justine Espin
-
-
-
-
-
-
-Patrick Zabala
+Jhazmine Barcelona-Santos
