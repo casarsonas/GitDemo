@@ -1,2 +1,2 @@
 This is a sample file commited from git commands.
-RALPH ODQUIER
+RALPH ODQUIER LANG
